@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(to right,pink, purple);
+}
+.radius{
+    border-radius: 20px;
+}
+.margin{
+    margin-top: 9px;
+}
